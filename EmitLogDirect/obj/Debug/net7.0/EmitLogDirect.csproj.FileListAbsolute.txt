@@ -1,0 +1,17 @@
+C:\platzi\RabbitMQ\RabbitRouting\EmitLogDirect\bin\Debug\net7.0\EmitLogDirect.exe
+C:\platzi\RabbitMQ\RabbitRouting\EmitLogDirect\bin\Debug\net7.0\EmitLogDirect.deps.json
+C:\platzi\RabbitMQ\RabbitRouting\EmitLogDirect\bin\Debug\net7.0\EmitLogDirect.runtimeconfig.json
+C:\platzi\RabbitMQ\RabbitRouting\EmitLogDirect\bin\Debug\net7.0\EmitLogDirect.dll
+C:\platzi\RabbitMQ\RabbitRouting\EmitLogDirect\bin\Debug\net7.0\EmitLogDirect.pdb
+C:\platzi\RabbitMQ\RabbitRouting\EmitLogDirect\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\platzi\RabbitMQ\RabbitRouting\EmitLogDirect\obj\Debug\net7.0\EmitLogDirect.csproj.AssemblyReference.cache
+C:\platzi\RabbitMQ\RabbitRouting\EmitLogDirect\obj\Debug\net7.0\EmitLogDirect.GeneratedMSBuildEditorConfig.editorconfig
+C:\platzi\RabbitMQ\RabbitRouting\EmitLogDirect\obj\Debug\net7.0\EmitLogDirect.AssemblyInfoInputs.cache
+C:\platzi\RabbitMQ\RabbitRouting\EmitLogDirect\obj\Debug\net7.0\EmitLogDirect.AssemblyInfo.cs
+C:\platzi\RabbitMQ\RabbitRouting\EmitLogDirect\obj\Debug\net7.0\EmitLogDirect.csproj.CoreCompileInputs.cache
+C:\platzi\RabbitMQ\RabbitRouting\EmitLogDirect\obj\Debug\net7.0\EmitLogDirect.csproj.CopyComplete
+C:\platzi\RabbitMQ\RabbitRouting\EmitLogDirect\obj\Debug\net7.0\EmitLogDirect.dll
+C:\platzi\RabbitMQ\RabbitRouting\EmitLogDirect\obj\Debug\net7.0\refint\EmitLogDirect.dll
+C:\platzi\RabbitMQ\RabbitRouting\EmitLogDirect\obj\Debug\net7.0\EmitLogDirect.pdb
+C:\platzi\RabbitMQ\RabbitRouting\EmitLogDirect\obj\Debug\net7.0\EmitLogDirect.genruntimeconfig.cache
+C:\platzi\RabbitMQ\RabbitRouting\EmitLogDirect\obj\Debug\net7.0\ref\EmitLogDirect.dll

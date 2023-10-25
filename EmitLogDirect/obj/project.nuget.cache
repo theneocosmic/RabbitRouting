@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pat2WIpGi/h8guTHWs0UUKYGVOXpzSz78lEi/cORQKnrry5dIDPUSioR4YrMmO+SO8L8yTL9rTyj6Mo2KvUVOw==",
+  "success": true,
+  "projectFilePath": "C:\\platzi\\RabbitMQ\\RabbitRouting\\EmitLogDirect\\EmitLogDirect.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\rabbitmq.client\\6.6.0\\rabbitmq.client.6.6.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
